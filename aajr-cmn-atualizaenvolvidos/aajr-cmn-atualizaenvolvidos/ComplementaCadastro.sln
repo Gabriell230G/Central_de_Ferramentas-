@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATUALIZA_ENVOLVIDOS", "ComplementaCadastro\ATUALIZA_ENVOLVIDOS.csproj", "{8F5BB834-F815-42BC-A207-53B95118864C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5BB834-F815-42BC-A207-53B95118864C}.Debug|x86.ActiveCfg = Debug|x86
+		{8F5BB834-F815-42BC-A207-53B95118864C}.Debug|x86.Build.0 = Debug|x86
+		{8F5BB834-F815-42BC-A207-53B95118864C}.Release|x86.ActiveCfg = Release|x86
+		{8F5BB834-F815-42BC-A207-53B95118864C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D580C0D3-C199-4EA5-A1AC-A3D93FCF7481}
+	EndGlobalSection
+EndGlobal
